@@ -1,0 +1,16 @@
+.shadow {
+    filter: drop-shadow(0.05rem 0.05rem 0.15rem rgba(0, 0, 0, 0.3));
+}
+
+#card1, #card2 {
+    display:none;
+}
+
+.changeCard {
+    background-color: #555;
+    color: #cdcdcd;
+}
+
+.nonExistentClass {
+    border: 1px solid red;
+}
